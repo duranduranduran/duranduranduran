@@ -4,19 +4,19 @@
 
 ```diff
 
-- 🔭 I’m a Software Developer from Ecuador, with a passion for front-end technologies
-- Technologies I'm currently working with:
+Software Developer from Ecuador, with a passion for front-end technologies
+Technologies I'm currently working with:
 
-- HTML
-- CSS
-- JavaScript(ES6)
-- Wordpress
-- React.js
-- Node.js
-- Angular.js
-- Express.js
-- Python
-- SQL
+ *HTML
+ *CSS
+ *JavaScript(ES6)
+ *Wordpress
+ *React.js
+ *Node.js
+ *Angular.js
+ *Express.js
+ *Python
+ *SQL
 ```
 
 
