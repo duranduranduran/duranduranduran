@@ -4,8 +4,8 @@
 
 ```diff
 
-Software Developer from Ecuador, with a passion for front-end technologies
-Technologies I'm currently working with:
+Software Developer based in Ecuador, with a passion for front-end technologies.
+I'm currently working with:
 
  *HTML
  *CSS
