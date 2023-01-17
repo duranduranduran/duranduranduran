@@ -11,10 +11,9 @@ I'm currently working with:
  *CSS
  *JavaScript(ES6)
  *Wordpress
- *React.js
- *Node.js
- *Angular.js
- *Express.js
+ *React
+ *Node
+ *Angular
  *Python
  *SQL
 ```
