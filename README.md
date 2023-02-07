@@ -9,7 +9,7 @@ I'm currently working with:
 
  *HTML
  *CSS
- *JavaScript(ES6)
+ *JavaScript
  *Wordpress
  *React
  *Node
