@@ -20,4 +20,4 @@ I'm currently working with:
 
 
 - 💬 you can check some of my works [here!](https://andresdev.persona.co/)
-- 📫 How to reach me: at andresnavarretefalquez@gmail.com
+- 📫 you can reach me at: andresnavarretefalquez@gmail.com
